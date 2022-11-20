@@ -1,0 +1,14 @@
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+D:\Benchmark\C#\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+D:\Benchmark\C#\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
