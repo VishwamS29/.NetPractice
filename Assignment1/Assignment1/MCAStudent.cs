@@ -6,17 +6,18 @@ namespace Assignment1
 {
     class MCAStudent : Student
     {
-        public int subject4;
-        public double resultCalculation()
-        {
-            //Console.Write("Subject 1 Marks : ");
-            //int S1 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Subject 1 Marks : ");
-            //int S2 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Subject 1 Marks : ");
-            //int S3 = Convert.ToInt32(Console.ReadLine());
+        private int _subject4;
 
-            int sum = subject1 + subject2 + subject3 + subject4;
+        public int Subject4
+        {
+            get { return _subject4; }
+            set { _subject4 = value; }
+        }
+
+        //public int subject4;
+        public override double resultCalculation()
+        {
+            int sum = Subject1 + Subject2 + Subject3 + Subject4;
             double result = (sum * 100) / 400;
             return result;
         }
